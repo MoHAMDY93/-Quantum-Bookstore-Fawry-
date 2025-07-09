@@ -5,5 +5,5 @@ A console-based Java application developed as part of the second Object-Oriented
 
 ## Running the App
 
-![Console Output](./assets/console_output.png)
+![Console Output](./assets/Screenshot from 2025-07-09 11-02-14.png)
 
