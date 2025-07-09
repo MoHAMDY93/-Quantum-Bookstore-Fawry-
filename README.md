@@ -1,6 +1,6 @@
-# OOP Task 2
+# OOP Task 2 (Book Sotre)
 
-A console-based Java application developed as part of the second Object-Oriented Programming (OOP) task during the internship.
+A console-based Java application developed as part of the second OOP task during the internship.
 
 ---
 
