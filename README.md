@@ -17,5 +17,5 @@ To run the program:
 
 ## 📸 Sample Console Output
 
-![Console Output](./assets/output.png)
+![Console Output](assets/output.png)
 
